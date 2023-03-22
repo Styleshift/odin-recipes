@@ -12,6 +12,7 @@ h1{
 ol,li{
     color: white;
     font-size: 32px;
+    list-style-type: none;
 }
 
 p{
